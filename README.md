@@ -1,2 +1,3 @@
 # basic-counter-app
-Created with CodeSandbox
+
+## React useState practice
